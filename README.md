@@ -37,7 +37,7 @@ Inference operates exactly as it does in standard nnUNet, because the exported m
 nnUNetv2_predict -i INPUT_FOLDER -o OUTPUT_FOLDER -d DATASET_ID -c 3d_fullres -tr SPSDTrainer -f FOLD_ID
 ```
 
-## 📄 License & Acknowledgment
+## License & Acknowledgment
 
 This code adheres to the Apache 2.0 license, consistent with normal nnUNet extensions. If our code assists your research, please consider citing our associated paper.
 
